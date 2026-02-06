@@ -132,10 +132,6 @@ Contributions are welcome! Areas of interest:
 
 Please open an issue or submit a pull request.
 
-## License
-
-[Choose appropriate license - MIT, GPL, etc.]
-
 ## Acknowledgments
 
 This project draws inspiration from:
@@ -144,9 +140,6 @@ This project draws inspiration from:
 - Arabic maqam traditions
 - Contemporary Middle Eastern composers and improvisers
 
-## Contact
-
-[Your contact information or project maintainer details]
 
 ## References
 
